@@ -1,2 +1,3 @@
-# greends_pml_final
-Final project for Practical Machine Learning
+# PML Final Project - Atmospheric Physics Climate Model
+
+Kaggle competition page - https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/overview

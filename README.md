@@ -6,3 +6,5 @@ Due to large data file sizes, they cannot be uploaded to this repository, but th
 
 LEAP's ClimSim GitHub Repository - https://github.com/leap-stc/ClimSim/tree/main  
 LEAP's Hugging Face - https://huggingface.co/LEAP
+
+pml_final_model.ipynb is the notebook with my final work in it, the other notebooks were used for exploration or research
